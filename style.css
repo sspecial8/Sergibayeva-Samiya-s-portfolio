@@ -1,53 +1,46 @@
-/* General Styles */
 body {
-    background-color: #f8f9fa; /* Light background */
-    color: #343a40; /* Dark text for contrast */
+    background-color: #f8f9fa; 
+    color: #343a40; 
     font-family: 'Arial', sans-serif;
   }
-  
-  /* Card Styles */
   .card {
-    background-color: #ffffff; /* White card background */
-    border: 1px solid #dee2e6; /* Light border around cards */
-    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+    background-color: #ffffff; 
+    border: 1px solid #dee2e6; 
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1); 
   }
   
   .card-title {
-    color: #343a40; /* Dark text */
+    color: #343a40;
   }
   
   .card-text {
-    color: #6c757d; /* Slightly lighter text */
+    color: #6c757d; 
   }
-  
-  /* Footer Styles */
   footer {
-    background-color: #343a40; /* Darker footer */
-    color: #ffffff; /* White text in the footer */
+    background-color: #343a40; 
+    color: #ffffff;
     padding: 20px;
   }
   
   footer a {
-    color: #007bff; /* Accent color for links */
+    color: #007bff; 
     text-decoration: none;
   }
   
   footer a:hover {
-    color: #6f42c1; /* Hover color for links */
+    color: #6f42c1; 
   }
-  
-  /* Contact and Social Styles */
   footer p {
-    color: #ffffff; /* Ensure the contact text is white */
-    font-size: 1.1rem; /* Slightly larger text size */
+    color: #ffffff;
+    font-size: 1.1rem; 
   }
   
   footer .contact-info a {
-    color: #007bff; /* Contact and social links use the accent color */
+    color: #007bff; 
     text-decoration: none;
   }
   
   footer .contact-info a:hover {
-    color: #6f42c1; /* Hover color for contact and social links */
+    color: #6f42c1;  
   }
   
